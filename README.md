@@ -44,7 +44,7 @@ Desarrollador Full Stack con 4 años de experiencia en la creación de aplicacio
 
 ## Cloud
 
-- AWS
+- AWS(EC2, LAMBDAS, STEP FUNCTIONS,CLOUDWATCH)
 - Heroku
 - Upcloud
 - DigitalOcean
